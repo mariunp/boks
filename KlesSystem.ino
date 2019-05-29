@@ -17,8 +17,6 @@ unsigned long vmTid = 0;
 int vibrasjonsStatus = LOW;
 int vibrasjonsVeksling = LOW;
 
-int vibrasjonsInterval = 500;
-
 unsigned long debounceDelay = 50;
 
 unsigned long trykkPlateKundeDelay = 3000;
